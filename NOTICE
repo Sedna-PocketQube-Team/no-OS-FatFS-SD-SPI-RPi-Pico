@@ -1,0 +1,2 @@
+The file FatFs_SPI/sd_driver/sd_card.c was modified at line 1143 to satisfy the forker's project requirements.
+The rest of the code is subject to the original licenses.
